@@ -1,0 +1,10 @@
+# Saídas geradas pelo migrador
+tampermonkey_import/
+tampermonkey_import.zip
+
+# Backups locais do Violentmonkey
+*.zip
+
+# Cache Python
+__pycache__/
+*.py[cod]
