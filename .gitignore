@@ -8,3 +8,20 @@ tampermonkey_import.zip
 # Cache Python
 __pycache__/
 *.py[cod]
+.env
+*.env.local
+*.env.development
+*.env.production
+pycache
+.gemini
+GITHUB_TOKEN
+GITHUB_TOKEN.txt
+AMO_API_KEY.txt
+AMO_API_SECRET.txt
+gemini-gcloud-key.json
+gcp-oauth.keys.json
+*API*
+.eslintcache/
+node_modules/
+dist/
+build/
